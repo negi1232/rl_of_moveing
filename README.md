@@ -1,4 +1,4 @@
-name:rl_of_moveing
+title:rl_of_moveing
 
 Purpose:It is a program that performs reinforcement learning using network x.
 
